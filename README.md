@@ -38,17 +38,19 @@ Support tickets vs churn
 Inactivity vs churn
 Payment failures vs churn
 Tenure vs churn
+
 Key Insights
 Customers with lower usage hours were more likely to churn.
 Higher inactivity was strongly associated with cancellations.
 Customers with more support tickets showed higher churn rates.
 Frequent payment failures contributed to customer churn.
 Long-term customers had better retention compared to newer users.
+
 Tools Used
 Microsoft Excel
 Pivot Tables
 Charts & Visualizations
 Data Cleaning Techniques
-Conclusion
 
+Conclusion
 The analysis identified several behavioral patterns associated with customer churn. These insights can help businesses improve customer engagement, reduce cancellations, and increase retention strategies.
